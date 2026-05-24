@@ -14,6 +14,28 @@ The selected regulated entity is Citi / Citigroup. The selected domain is AI cre
 
 Singapore and UK appear in the jurisdiction rule file only as extensible design examples. The substantive assignment analysis focuses on US and EU.
 
+#Recommended reading order for Task 3:
+
+1. Task3_Tool_Design_Deck.pdf
+   Main senior-management presentation of the jurisdiction-aware RegTech tool.
+
+2. Task3_One_Page_Summary.pdf
+   Plain-language summary of the design choices and key result.
+
+3. Task3_AI_Credit_Governance_Prototype_executed.ipynb
+   Executed working prototype showing data generation, model training, fairness metrics,
+   jurisdiction-specific outputs and sensitivity analysis.
+
+4. Task3_Model_Card.pdf
+   Governance stub documenting model purpose, intended users, assumptions, limitations
+   and failure modes.
+
+5. Task3_Technical_Appendix.pdf
+   Technical details on synthetic data, metric formulas, jurisdiction logic and outputs.
+
+6. Task3_Sensitivity_Analysis.pdf and Task3_SHAP_Explainability.pdf
+   Supporting analyses for threshold sensitivity and applicant-level explainability.
+   
 ## Contents
 
 - `Task1_Selection_and_Research.pdf`: entity selection, domain rationale, jurisdictional comparison and references.

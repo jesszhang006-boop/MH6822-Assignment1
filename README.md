@@ -1,16 +1,10 @@
-# MH6822 Assignment 1
+# MH6822 Option A Assignment 1
 
 ZHANG JUNYI
 G2505266E
 JUNYI006@e.ntu.edu.sg
-# MH6822 Option A Assignment 1
 
 ## Submission Files
-
-# MH6822 Option A Assignment 1
-
-## Submission Files
-
 
 ### 🎥 Task 4 Presentation Video
 

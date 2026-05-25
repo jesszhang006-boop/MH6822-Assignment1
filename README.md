@@ -22,8 +22,8 @@ If the video does not preview, open it directly here:
 
 ### 🎧 Task 4 MP3 Audio File
 
-The MP3 audio file is available here:  
-[Open / Download Task4_Presentation_ZHANG_JUNYI_G2505266.mp3](把你刚生成的MP3链接放这里)
+[Open / Download Task4_Presentation_ZHANG_JUNYI_G2505266.mp3](https://github.com/user-attachments/files/28214733/Task4_Presentation_ZHANG_JUNYI_G2505266.mp3)
+
 ## Topic
 
 A Jurisdiction-Aware AI Credit Governance Tool for Cross-Border Banks: Comparing US Fair Lending Explainability and EU AI Act Bias Governance.
